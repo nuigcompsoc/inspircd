@@ -31,6 +31,14 @@
 /* $ModDesc: Allow/Deny connections based upon PAM response */
 /* $LinkerFlags: -lpam */
 
+/*
+ * This module is meant to allow server operators who wish to use
+ * PAM as the authentication backend for their IRC system. It is 
+ * intended to be an abstraction from explicit LDAP configuration
+ * (as many centralised user databases have PAM as the frontend 
+ * for user authentication on, say, login machines).
+ */
+
 class ModulePAMAuth : public Module
 {
   LocalIntExt PAMAuthed;
