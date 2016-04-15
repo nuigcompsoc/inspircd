@@ -1,13 +1,7 @@
 /*
  * InspIRCd -- Internet Relay Chat Daemon
  *
- *   Copyright (C) 2011 Pierre Carrier <pierre@spotify.com>
- *   Copyright (C) 2009-2010 Robin Burchell <robin+git@viroteck.net>
- *   Copyright (C) 2009 Daniel De Graaf <danieldg@inspircd.org>
- *   Copyright (C) 2008 Pippijn van Steenhoven <pip88nl@gmail.com>
- *   Copyright (C) 2008 Craig Edwards <craigedwards@brainbox.cc>
- *   Copyright (C) 2008 Dennis Friis <peavey@inspircd.org>
- *   Copyright (C) 2007 Carsten Valdemar Munk <carsten.munk+inspircd@gmail.com>
+ *   Copyright (C) 2016 Douglas Temple <douglas@dtemple.info>
  *
  * This file is part of InspIRCd.  InspIRCd is free software: you can
  * redistribute it and/or modify it under the terms of the GNU General Public
